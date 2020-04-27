@@ -5,7 +5,7 @@ Satisfying the need for an anonymous, proximity-based message board with college
 ## Team Members
 
 * **Bret McNamee** - Caveats, scenarios, personas, supplementary materials 
-* **Full Name 2** - Title, methods, findings, conclusions, personas
+* **Jacob Tessman** - Title, methods, findings, conclusions, personas
 
 ## Phase 1: User Inquiry and Inspection
 
